@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"
+    <title>第一个html页面</title>
+</head>
+<body>
+    <h3 style="color:blueviolet;">打私舞弊啥</h3>
+    <h4 style="color:darkblue;">da si wu bi sha</h4>
+    <h1 style="color:darkcyan;font-size: 50px">dasibubisha</h1>
+    <p>第一行</p>
+    <p>第二行</p>
+    <p>第三行</p>
+    <img src="image/index.jpg" width="200px" title="谷歌">
+    <a href="http://google.com" target="_blank">go to google</a><br>
+    <a href="#1">qu1</a>
+    <ul>
+        <li>s</li>
+        <li>s</li>
+        <li>s</li>
+        <li>s</li>
+    </ul>
+    <dl>
+        <dd>1</dd>
+        <dd>2</dd>
+        <dt>3</dt>
+        <dt>4</dt>
+    </dl>
+    <h3 id="1">123</h3>
+</body>
+</html>
